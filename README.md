@@ -11,5 +11,5 @@ Email spam classification is a machine learning project which aims to classify t
 4.MINI PROJECT-01:
 Data exploration is the primary technqiue in the data science. A dataset is explored through various visualizayion techniques and the required basic insights are extracted for further processing. In this project, given the ADIDAS Sales Dataset, data visualization and exploration were done and useful insights were drawn helpful to business firm.
 
-SOCIAL NETWORK ANALYSIS:
+5.SOCIAL NETWORK ANALYSIS:
 Social Network Analysis is a part of machine learning and NLP techniques used to identify the network connections within the members of a group. The project is implemented on Zachary Karate Club Dataset to identify the connections and visualize it in the form of graph. Also, various measures of SNA such as degree centrality, closeness centrality and betweeness centrality were measured in this project.
