@@ -13,3 +13,5 @@ Social Network Analysis is a part of machine learning and NLP techniques used to
 5.DATA VISUALIZATION USING TABLEAU TOOL:
 Tableau is a data visualization and business intelligence tool used for reporting and analyzing vast volumes of data. It helps users create different charts, graphs, maps, dashboards, and stories for visualizing and analyzing data, to help in making business decisions.  It also helps to create reports, dashboards, and stories using different charts and graphs.
 
+6.LUNG CANCER PREDICTION:
+Lung Cancer Prediction is a machine learning project employed using KNeighbors Classifier aimed to predict the risk chances of getting lung cancer by a person based on the criterions- alcohol use, smoking, genetic risk, wheezing and exposure to air pollution. The model gave an accuracy score of 0.995 and predicted well accurately on the new data when provided to the model.
