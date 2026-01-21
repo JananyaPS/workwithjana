@@ -1,17 +1,94 @@
-1.CUSTOMER LOAN PREDICTION:
-Customer Loan Prediction is a machine learning project employed using Logistic Regression algorithm- a supervised learning method which classifies whether a customer is likely to buy a loan or not from a bank based on specific features and predicts the same when provided a new data. The project yielded an accuracy score of 89% .
+# WorkWithJana — Beginner & Foundational ML/Analytics Projects  
+This repository is a collection of my **basic and beginner-level projects** created during my early learning phase in Data Science, Machine Learning, Deep Learning, NLP, and Data Analytics.  
 
-2.EMAIL SPAM CLASSIFICATION:
-Email spam classification is a machine learning project which aims to classify the mails into spam or ham based on any classifier. The classifier used in this project is Multinomial Naive Bayes classifier and produced an accuracy of 97% in its classification. It also correctly predicted the category of 'spam' or 'ham' when given the new data as input.
+It serves as an archive of how I started learning core concepts before moving on to advanced ML systems, ranking models, fairness analysis, deep learning forecasting, and large-scale analytics.
 
-3.DATA EXPLORATION AND VISUALIZATION IN PYTHON - ADIDAS DATASET:
-Data exploration is the primary technqiue in the data science. A dataset is explored through various visualizayion techniques and the required basic insights are extracted for further processing. In this project, given the ADIDAS Sales Dataset, data visualization and exploration were done and useful insights were drawn helpful to business firm.
+Each directory contains focused, hands-on practice projects that helped me understand the fundamentals of data preprocessing, supervised learning, neural networks, NLP tasks, and exploratory analysis.
 
-4.SOCIAL NETWORK ANALYSIS:
-Social Network Analysis is a part of machine learning and NLP techniques used to identify the network connections within the members of a group. The project is implemented on Zachary Karate Club Dataset to identify the connections and visualize it in the form of graph. Also, various measures of SNA such as degree centrality, closeness centrality and betweeness centrality were measured in this project.
+---
 
-5.DATA VISUALIZATION USING TABLEAU TOOL:
-Tableau is a data visualization and business intelligence tool used for reporting and analyzing vast volumes of data. It helps users create different charts, graphs, maps, dashboards, and stories for visualizing and analyzing data, to help in making business decisions.  It also helps to create reports, dashboards, and stories using different charts and graphs.
+## 📂 Repository Structure
 
-6.LUNG CANCER PREDICTION:
-Lung Cancer Prediction is a machine learning project employed using KNeighbors Classifier aimed to predict the risk chances of getting lung cancer by a person based on the criterions- alcohol use, smoking, genetic risk, wheezing and exposure to air pollution. The model gave an accuracy score of 0.995 and predicted well accurately on the new data when provided to the model.
+### **1. exploratory-data-analysis/**
+Beginner-level exploratory analysis notebooks covering:
+- Working with CSV files  
+- Basic statistics  
+- Visualizations (Matplotlib/Seaborn)  
+- Tableau dashboards  
+- Adidas sales analysis using Python & Tableau  
+
+**Goal:** Build confidence in understanding datasets and spotting trends.
+
+---
+
+### **2. machine-learning-basics/**
+Simple supervised learning projects such as:
+- Customer Loan Prediction (Logistic Regression)  
+- Email Spam Classification (Naive Bayes)  
+- Lung Cancer Prediction (KNN)  
+
+**Goal:** Learn core ML workflow — preprocessing, training, testing, predictions, and accuracy evaluation.
+
+---
+
+### **3. deep-learning-intro/**
+Initial deep learning experiments including:
+- LSTM-based stock market prediction  
+- Social network graph analysis  
+
+**Goal:** Explore neural networks, sequences, and graph structures using TensorFlow, Keras, and NetworkX.
+
+---
+
+### **4. nlp-basics/**
+Beginner NLP tasks:
+- User Question Answering  
+- Text Summarization  
+
+**Goal:** Understand tokenization, embeddings, Q&A logic, and basic summarization concepts.
+
+---
+
+## 🧰 Tools & Technologies  
+This repository uses beginner-friendly tools such as:
+- **Python**  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- TensorFlow/Keras  
+- NetworkX  
+- NLP libraries (NLTK / Transformers)  
+- Tableau  
+- Jupyter Notebook  
+
+---
+
+## 🎯 Purpose of This Repository  
+This repository showcases my **early learning journey** across different areas of data science.  
+It reflects:
+- How I explored fundamental concepts  
+- How I practiced building small end-to-end projects  
+- How my skills developed before transitioning into advanced projects  
+
+Today, I work on:
+- Ranking systems  
+- User engagement prediction  
+- Explainability and fairness  
+- Deep learning forecasting  
+- Distributed analytics with Spark  
+These advanced projects are available in my other repositories.
+
+---
+
+## 🔗 Related Advanced Work  
+For production-style ML and advanced modeling, see my other repositories:
+- Content Recommendation Ranking System  
+- Fairness & Bias ML  
+- User Engagement Prediction  
+- Hybrid Crypto Forecasting  
+- Spark Spatial Analytics  
+
+---
+
+## 🙌 Acknowledgment  
+This repository is kept public as a transparent record of my growth from **beginner → intermediate → advanced** in the field of Data Science and ML.
+
