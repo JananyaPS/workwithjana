@@ -6,7 +6,7 @@ Together, they demonstrate my ability to build business-ready dashboards, conduc
 
 ## 📂 Projects Included
 
-### 1. **Adidas Sales Dashboard — Tableau**
+### 1. **Adidas Sales Dashboard - Tableau**
 A fully interactive Tableau dashboard built using the Adidas US sales dataset.
 
 **Key Insights Highlighted**
@@ -35,7 +35,7 @@ A fully interactive Tableau dashboard built using the Adidas US sales dataset.
 
 ---
 
-### 2. **Adidas Sales Analysis — Python (Pandas + Matplotlib/Seaborn)**
+### 2. **Adidas Sales Analysis - Python (Pandas + Matplotlib/Seaborn)**
 A Python-based EDA project performing deeper statistical and trend analysis on the same Adidas dataset.
 
 **Analysis Includes**
@@ -64,13 +64,6 @@ A Python-based EDA project performing deeper statistical and trend analysis on t
 ---
 
 ## 📘 Purpose of This Directory  
-This folder contains my **beginner-level data analytics learning projects**, created while I was building foundational skills in:
-
-- Understanding datasets and cleaning basic CSV files  
-- Exploring trends using simple charts and summaries  
-- Practicing Tableau to create my first dashboards  
-- Learning Python (Pandas, Matplotlib, Seaborn) for EDA  
-- Interpreting patterns in sales and business data at a basic level  
 
 These projects were part of my **early practice phase**, helping me learn how to:
 
