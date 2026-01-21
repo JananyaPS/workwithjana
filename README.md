@@ -1,4 +1,4 @@
-# WorkWithJana — Beginner & Foundational ML/Analytics Projects  
+# Beginner & Foundational ML/Analytics Projects  
 This repository is a collection of my **basic and beginner-level projects** created during my early learning phase in Data Science, Machine Learning, Deep Learning, NLP, and Data Analytics.  
 
 It serves as an archive of how I started learning core concepts before moving on to advanced ML systems, ranking models, fairness analysis, deep learning forecasting, and large-scale analytics.
@@ -27,7 +27,7 @@ Simple supervised learning projects such as:
 - Email Spam Classification (Naive Bayes)  
 - Lung Cancer Prediction (KNN)  
 
-**Goal:** Learn core ML workflow — preprocessing, training, testing, predictions, and accuracy evaluation.
+**Goal:** Learn core ML workflow: preprocessing, training, testing, predictions, and accuracy evaluation.
 
 ---
 
